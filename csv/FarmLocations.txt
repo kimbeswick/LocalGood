@@ -1,0 +1,8 @@
+-117.0817401,32.5590559,Suzie's Farm,2570 Sunset Ave,San Diego,CA,92154,619.662.1780,http://suziesfarm.com/the-farm/location/,*
+-116.9551168,32.860668,Hilliker's Ranch Fresh Eggs,11329 El Nopal,Lakeside,CA,92040,619-448-3683,http://www.hillikereggs.com/eggs/Home.html,*
+-116.5053309,32.5986219,Campo Creek,29556 Hwy. 94,Campo,CA,91906,john@campocreekranch.com,http://campocreekranch.com/?page_id=1688,*
+-117.0861832,32.5539819,Sun Grown Organic Distributors,2325 Hollister St,San Diego,CA,92154,800.995.7776,http://sungrownorganics.com/index.php,*
+-116.8896118,32.7203492,Honeymoon Ranch,PO Box 117 Jamul,Indian Springs,CA,91935,760.468.2296,http://sdweeklymarkets.com/honeymoon-ranch,*
+-117.0333579,33.1562834,Heritage Family Farms,3445 E Valley Pkwy,Escondido,CA,92027,760.741.1932,https://www.facebook.com/heritagefamilyfarmers/,*
+-117.1159878,33.5225476,Jacy Corporation,31320 Congressional Dr.Temecula,CA,92591,951-348-8634,https://www.ccof.org/members/jacy-corporation-dba-jacy-farm-2,*
+-116.9841677,33.2084371,Bates Nut Farm,15954 Woods Valley Rd,Valley Center,CA,92082,760.749.3333,http://batesnutfarm.biz/,*

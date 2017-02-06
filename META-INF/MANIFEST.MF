@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.2
+Created-By: 1.8.0_20-b26 (Oracle Corporation)
+Main-Class: BeerWerks.BeerWerks
+Class-Path: ../lib/esri_mo20.jar ../lib/esri_mo20img.jar ../lib/esri_m
+ o20res.jar
+

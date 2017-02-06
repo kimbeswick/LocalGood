@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="BeerWerks" default="bw-jar">
+
+	<!-- Description of ant build file... -->
+	<description>
+        Main BeerWerks Build File...
+	</description>
+
+	<!-- Setup build variables... -->
+ 	<property name="src" value="../src"/>
+  	<property name="classes" value="../classes"/>
+  	<property name="dist" value="../dist"/>
+	<property name="lib" value="../lib"/>
+	<property name="data" value="../data"/>
+	<property name="csv" value="../csv"/>
+	<property name="img" value="../img"/>
+	<property name="jar" value="${dist}/jar"/>
+	<property name="build" value="../build"/>
+	<property name="src" value="../src"/>
+    	
+	<!-- Classpath refs -->
+	<path id="moj.classpath">
+		<pathelement path="${classes}"/>
+	    <fileset dir="${lib}">
+	    	<include name="**/*.jar" />
+	    </fileset>
+ 	</path>
+	
+	<!-- init target -->
+  	<target name="init">
+  		<mkdir dir="${dist}"/>
+  		<!-- Build log verbosity... -->
+  		<record name="${dist}/bw-build.log" loglevel="verbose" action="start" />
+ 	</target>
+			
+	<!-- compile target -->
+  	<target name="compile" depends="init">
+  		<mkdir dir="${classes}"/>
+  		<javac includeantruntime="false"
+  			classpathref="moj.classpath"
+  			srcdir="${src}"
+  			destdir="${classes}"
+  			fork="yes"
+  			executable="C:\j2sdk1.4.2_19\bin\javac.exe"
+  			compiler="javac1.4" />
+ 	</target>
+
+	<!-- BeerWerks-run target -->
+  	<target name="bw-run" depends="compile">
+		<java dir="${classes}"
+			jvm="C:\j2sdk1.4.2_19\bin\java.exe"
+  			maxmemory="256m"
+  			classpathref="moj.classpath"
+			fork="yes"
+			spawn="no"
+			classname="BeerWerks"
+			output="${dist}/bw-run.log"
+			/>
+ 	</target>
+	
+	<!-- BeerWerks-jar target -->
+	<target name="bw-jar" depends="compile">			
+		
+		<copy todir="${jar}">
+			<fileset dir="${classes}"/>
+		</copy>
+
+		<copy todir="${jar}/data">
+			<fileset dir="${data}"/>
+		</copy>
+		
+		<copy todir="${jar}/csv">
+			<fileset dir="${csv}"/>
+		</copy>
+		
+		<copy todir="${jar}/lib">
+			<fileset dir="${lib}"/>
+		</copy>
+			
+		<copy todir="${jar}/build">
+			<fileset dir="${build}"/>
+		</copy>
+
+		<copy todir="${jar}/img">
+			<fileset dir="${img}"/>
+		</copy>
+			
+		<copy todir="${jar}/src">
+			<fileset dir="${src}"/>
+		</copy>
+
+		<jar destfile="${dist}/BeerWerks.jar" basedir="${jar}" manifest="${build}/manifest.txt"/>
+		
+	</target>
+		
+	
+	<!-- QuickStart5-clean targer -->
+	<target name="bw-clean">
+	    <delete verbose="true" failonerror="no" dir="${dist}"/>
+		<delete verbose="true" failonerror="no" dir="${classes}"/>
+  	</target>
+	
+</project>

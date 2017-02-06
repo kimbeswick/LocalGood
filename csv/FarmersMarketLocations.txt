@@ -1,0 +1,70 @@
+-117.1794014,32.7679608,Mission Test Place,5674 El Camino Real Suite G,San Diego,CA,92008,760.550.9688,http://www.ottbrew.com,16:00-20:00,*
+-117.2433617,32.770829,Sea Port Tester/The Lost Abbey,155 Mata Way Suite 104,San Marcos,CA,92069,760.720.7012,http://www.LostAbbey.com,13:00-17:00,***
+-117.1455025,33.2325338,Welk Farmers' Market,8860 Lawrence Welk Drive,Escondido,CA,92026,760-651-3630,N/A,Monday 3 - 7pm,*
+-117.1539029,32.7187902,Seeds@City Urban Farm Stand,San Diego City College -- 16th & C Street up the stairs from the garden,San Diego,CA,92101,N/A,cityfarm@sdccd.edu,Monday 10:30 - 12:30am,*
+-117.1718358,32.6984868,Coronado,1st St. & B Ave. -- Ferry Landing,Coronado,CA,92118,760-741-3763,N/A,Tuesday 2:30 - 6pm,*
+-117.0822406,33.1222995,Escondido WIC,Grand Ave. btw Juniper & Kalmia St.,Escondido,CA,92025,760-480-4101,www.escondidoarts.org,Tuesday 2:30 – 6:00 pm year round,*
+-117.1421005,32.9107648,Mira Mesa WIC,Mira Mesa High School -- 10510 Reagan Rd.,San Diego,CA,92126,858-272-7054,N/A,Tuesday 2:30 – 7 pm (3 – 6 winter hours),ronlachance@gsws.com
+-116.9651699,32.6214642,Otay Ranch - Chula Vista,2015 Birch Rd. and Eastlake Blvd.,Chula Vista,CA,91915,619-279-0032,http://www.otayranchtowncenter.com/events/farmers-market,Tuesday 4 – 8 pm (4 – 7 in winter),
+-117.2558587,32.7969675,Pacific Beach Tuesday   WIC,Bayard & Garnet,San Diego,CA,92109,619-233-3901,Tuesday 2 – 7 pm,http://www.sdweeklymarkets.com/  
+-117.2362022,32.8800649,UCSD,UCSD Campus -- Town Square at Gilman/Meyers,San Diego,CA,92093,858-534-4248,Tuesday 10 am – 2 pm (Sept. 25 through mid-June; closed for winter spring and summer breaks),cwoolery@ucsd.edu 
+-117.2968623,33.0448281,Encinitas Station,Corner of E Street & Vulcan in parking lot B,Encinitas,CA,92024,760-651-3630,Wednesday 4 - 8 pm May - Sept;Wednesday 4 - 7 pm Oct - April,www.encinitas101.com
+-117.2526264,32.7478898,Ocean Beach,4900 block of Newport Ave. btw Cable & Bacon Sts.,Ocean Beach,CA,92107,619-279-0032,Wednesday 4 – 7 pm (4 – 8 in summer),www.oceanbeachsandiego.com
+-117.0009102,32.8518466,Santee WIC,Carlton Hills Blvd & Mast Blvd,Santee,CA,92071,619-449-8427,Wednesday 3 –7 pm (winter, 3 – 6:00 pm),http://santeefarmersmarket.com/
+-117.3508444,33.1595404,State Street in Carlsbad Village,State Street & Carlsbad Village Drive,Carlsbad,CA,92008,858-272-7054,Wednesday 3 – 7 pm (winter hours 3 – 6),http://www.carlsbad-village.com/events/farmers-market     
+-117.5900459,33.0992148,Temecula - Promenade     WIC,40820 Winchester Rd. Promenade Mall,Temecula,CA,92591,760-728-7343,Wednesday 9 am – 1 pm,www.temeculafarmersmarket.com
+-117.1908939,32.9577345,Carmel Valley -- Canyon Crest Academy,5951 Village Center Loop Road,San Diego,CA,92130,858-945-5560,Thursday 2:30 – 7pm,http://www.CarmelValleyCertifiedFarmersMarket.com
+-117.1641764,32.7157535,Horton Square,225 Broadway & Broadway Circle,San Diego,CA,92101,760-741-3763,Thursday 11 am – 3 pm (seasonal March – October),Mary Hillebrecht: Manager
+-117.1739929,32.7833893,Linda Vista   EBT/WIC,6900 Linda Vista Rd,San Diego,CA,92111,760-580-0116,Thursday 2 – 7 pm (2 – 6 in winter),Christy Johnson: Manager
+-117.1279209,32.7482092,North Park WIC/EBT,3151 University & 32nd St.,San Diego,CA,92104,619-233-3901,Thursday 3 – 7 pm year round,http://www.northparkfarmersmarket.com/
+-117.0738537,32.7747748,SDSU Farmers' Market,Campanile Walkway btw Hepner Hall & Love Library,San Diego,CA,92182,http://www.sdsufarmersmarket.com/themarket.html, 10 – 3 pm (While school is in session.),http://www.sdsufarmersmarket.com/themarket.html
+-117.2249465,32.8613833,University Town Center    EBT,7131 Regents Rd. just south of Arriba St.,San Diego,CA,92122,619-795-3363,Thursday 3 – 7 pm,http://www.BriansFarmersMarkets.com 
+-116.6466165,33.2739336,Warner Springs,30951 Hwy 79,Warner Springs,CA,92086,760-782-3517,Thursday 3 – 6 pm (September – June),https://sites.google.com/a/warnerusd.net/home/home/farmer-s-market
+-117.0822588,32.7917678,Allied Gardens,5185 Waring Rd. (between Orcutt and Zion),San Diego,CA,92120,619-279-0032,Friday 4 – 7 pm,http://www.7thdistrictfarmersmarket.com
+-116.3764287,33.2563717,Borrego Springs,Christmas Circle & Palm Canyon Dr.,Borrego Springs,CA,92004,760-767-5555,Friday 7 am – noon Late October – May,www.borregosprings@chamber.com
+-117.1345488,32.5797318,Imperial Beach,Seacoast Dr. at Pier Plaza,Imperial Beach,CA,91932,619-397-1917,Friday 12 – 7 pm Oct- Mar; 12 – 7:30 pm Apr - Oct,http://imperialbeachfarmersmarket.org/Imperial_Beach_Farmers_Market/WELCOME.html 
+-117.1761073,32.843359,Kearny Mesa,5898 Copley,San Diego,CA,92111,858-272-7054,Friday 10:30 am – 1:30 pm,ronlachance@gsws.com
+-117.0239083,32.7674338,La Mesa Village,Spring St. and University,La Mesa,CA,91942,619-249-9395,Friday 2 – 6 pm Mar - Oct; 1 – 5 pm Nov - Feb,outbackfarm@sbcglobal.net
+-117.0485311,33.0329352,Rancho Bernardo Winery,13330 Paseo del Verano Norte,San Diego,CA,92128,760-500-1709,Friday 9 am – 1 pm,rexranch@att.net
+-117.1194023,32.764896,City Heights,On Wightman St. btw Fairmount & 43rd St.,San Diego,CA,92105,760-580-0116,Saturday 9 – 1 pm,http://sdfarmbureau.org/Farmers-Markets/chfm/index.html
+-117.266123,32.9550274,Del Mar,1050 Camino Del Mar,Del Mar,CA,92014,858-465-0013,Saturday 1 – 4 pm,http://www.delmarfarmersmarket.org
+-117.1447401,32.7064187,Golden Hill,B St. btw 27th and 28th Sts.,San Diego,CA,92102,619-795-3363,Saturday 9:30 am – 1:30 pm,http://www.facebook.com/GoldenHillFarmersMarket?ref=ts
+-117.1670108,32.721921,Little Italy Mercato,West Cedar St. (Kettner to Front),San Diego,CA,92101,619-233-3901,Saturday 8 am – 2 pm,www.littleitalymercato.com
+-117.2566305,32.7913242,Pacific Beach,4150 Mission Blvd.,San Diego,CA,92109,760-741-3763,Saturday 8 am – noon,Mary Hillebrecht
+-117.0388099,32.9703388,Poway,14134 Midland Rd. at Temple,Poway,CA,92064,619-249-9395,Saturday 8 – 1pm,http://poway.org/Index.aspx?page=540  
+-116.8852688,33.0352707,Ramona,1855 Main St.,Ramona,CA,92065,760-788-1924,Saturday 9 am – 1 pm,www.ramonafarmersmarket.com
+-117.3463008,33.1280625,Vista,325 Melrose Dr.,Vista,CA,92083,760-945-7425,Saturday 8 am – 1 pm,http://vistafarmersmarket.com/wordpress/
+-117.1641536,32.7104795,Gaslamp,400 block of Third Ave. btw Island Ave. and J St.,San Diego,CA,92101,619-279-0032,Sunday 9 am – 1 pm,N/A
+-117.1514332,32.7506076,Hillcrest WIC,3960 Normal & Lincoln Sts.,San Diego,CA,92103,619-237-1632,Sunday 9 am – 2 pm,HillcrestFarmersMarket.com
+-117.2720917,32.8394755,La Jolla Open Aire Market,La Jolla Elementary School,7300 High Ave.,La Jolla,CA,92037,858-454-1699,Sunday 9 am – 1 pm,www.lajollamarket.com  
+-117.1990079,32.9903856,Rancho Santa Fe Del Rayo Village,16079 San Dieguito Rd.,Rancho Santa Fe,CA,92091,619-743-4263,Sunday 9:30 am – 2 pm,http://www.ranchosantafefarmersmarket.com/    
+-116.9558638,33.2734935,Rincon's Outdoor Market,34323 Valley Center Rd,Valley Center,CA,92082,N/A,Sunday 10 am – 2 pm,https://www.facebook.com/RinconsOutdoorMarket 
+-117.271219,32.9868392,Solana Beach,410 to 444 South Cedros Ave. at Rosa St.,Solana Beach,CA,92075,858-755-0444,Sunday 1 – 5 pm,www.cedrosdesigndistrict.net
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+   
+
+
+    
+
+    
+
+
+
+
+
+
+charts on website ??
